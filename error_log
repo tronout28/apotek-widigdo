@@ -1,0 +1,86 @@
+[21-Feb-2025 10:10:25 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[21-Feb-2025 10:10:25 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[21-Feb-2025 10:10:25 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[21-Feb-2025 10:10:25 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[21-Feb-2025 10:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[21-Feb-2025 10:11:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[21-Feb-2025 10:11:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[21-Feb-2025 10:11:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[21-Feb-2025 10:11:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[21-Feb-2025 10:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[21-Feb-2025 10:12:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[21-Feb-2025 10:12:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[21-Feb-2025 10:12:11 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[21-Feb-2025 10:12:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[21-Feb-2025 10:12:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[21-Feb-2025 11:37:58 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/beli-langsung-add.php on line 50
+[21-Feb-2025 11:37:58 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/beli-langsung-add.php on line 50
+[26-Feb-2025 08:46:22 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[26-Feb-2025 08:46:22 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[26-Feb-2025 08:46:22 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[26-Feb-2025 08:46:22 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[26-Feb-2025 08:46:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[26-Feb-2025 09:05:17 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[26-Feb-2025 09:05:17 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[26-Feb-2025 09:05:17 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[26-Feb-2025 09:05:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[26-Feb-2025 09:05:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[06-Mar-2025 09:35:19 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[06-Mar-2025 09:35:19 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[06-Mar-2025 09:35:19 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[06-Mar-2025 09:35:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[06-Mar-2025 09:35:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
+[06-Mar-2025 09:35:43 Asia/Jakarta] PHP Warning:  Undefined array key "user_level" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 5
+[06-Mar-2025 09:35:43 Asia/Jakarta] PHP Warning:  Undefined array key "user_status" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 6
+[06-Mar-2025 09:35:43 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 17
+[06-Mar-2025 09:35:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on null in /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php on line 19
+[06-Mar-2025 09:35:43 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php:9
+Stack trace:
+#0 /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php(9): mysqli_query(Object(mysqli), 'SELECT * FROM t...')
+#1 /home/demowebjalan/widigdo.demowebjalan.com/_header-artibut.php(22): query('SELECT * FROM t...')
+#2 /home/demowebjalan/widigdo.demowebjalan.com/_header.php(2): include('/home/demowebja...')
+#3 /home/demowebjalan/widigdo.demowebjalan.com/bo.php(2): include('/home/demowebja...')
+#4 {main}
+  thrown in /home/demowebjalan/widigdo.demowebjalan.com/aksi/functions.php on line 9
